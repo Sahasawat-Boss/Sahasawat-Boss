@@ -15,10 +15,6 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - **Databases**: MongoDB
 - **Tools & Platforms**: Git
 
-## 📈 GitHub Stats
-
-![Sahasawat-Boss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahasawat-Boss&show_icons=true&theme=radical)
-
 ## 🏆 Top Projects
 
 1. **Boss PlayGround**: (Brief description of the project.)
