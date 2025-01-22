@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ## 🏆 Top Projects
 
 1. **Boss PlayGround**: (Brief description of the project.)
-   - [Repository Link](https://github.com/Sahasawat-Boss/Boss-Playground-Test)
+   - [Repository Link](https://github.com/Sahasawat-Boss/boss-playground)
    - Key technologies: React, Next.js, MongoDB
 
 
