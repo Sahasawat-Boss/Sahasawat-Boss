@@ -13,8 +13,9 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS
 - **BackEnd Frameworks & Libraries**: Node, Express
 - **Tools & Platforms**: Prisma, Git
-- **DB Used**: MongoDB, Cloundinary, SQlite, ....
+- **DB Used**: MongoDB, Cloundinary,........
 
+- Learning on Docker and portgresSQL
 
 ## 🤝 Let's Connect
 
