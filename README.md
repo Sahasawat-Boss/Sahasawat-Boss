@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ## 🚀 About Me
 - 💻 I love programming and working on innovative projects.
 - 🌱 Currently learning new technologies to enhance my development skills.
-- 📫 How to reach me: [Email](sahasawat.rk@gmail.com) | [LinkedIn](.....)
-
+- 📫 How to reach me: sahasawat.rk@gmail.com
+- Phone: 086-868-4466
+  
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript and TypeScript
 - **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS
