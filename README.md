@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS
 - **BackEnd Frameworks & Libraries**: Node, Express
 - **Tools & Platforms**: Prisma, Git, Docker
-- **Database and Service thatI've used and tired**: PostgreSQL, MongoDB, Cloundinary
+- **Database and Service that I've used and tired**: PostgreSQL, MongoDB, Cloundinary
 
 ## 🤝 Let's Connect
 
 - Follow me on [GitHub](https://github.com/Sahasawat-Boss)
 
-Looking forward to collaborating and learning together!
+Looking forward to collaborating together!
