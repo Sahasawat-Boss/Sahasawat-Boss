@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - **BackEnd Frameworks & Libraries**: Node, Express
 - **Tools & Platforms**: Prisma, Git, Docker
 - **Database and Service that I've used and tired**: PostgreSQL, MongoDB, Cloundinary
+- **Deployment Platform: Vercel
 
 ## 🤝 Let's Connect
 
