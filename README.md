@@ -2,15 +2,14 @@
 
 I'm passionate about coding and constantly learning new technologies to improve my skills.
 
-Currently Learning more non stop 
+Currently learning new technologies to enhance my development skills. none stop! 
 
 My Web: https://boss-website-bay.vercel.app/
 
-## About Me
-- I love learning, programming and working on new innovative projects.
-- Currently learning new technologies to enhance my development skills.
+## Contact
 - Gmail: sahasawat.rk@gmail.com
 - Phone: 086-868-4466
+- [GitHub](https://github.com/Sahasawat-Boss)
   
 ## 🛠️ Technologies & Tools
 
@@ -30,9 +29,10 @@ My Web: https://boss-website-bay.vercel.app/
 - **Database and Service that I've used and tired**: PostgreSQL, MongoDB, Cloundinary
 - **Deployment Platform: Vercel
 
-My App Sample: https://ai-chatbot-v2-by-boss-five.vercel.app/
+My App Sample: 
+- https://ai-chatbot-v2-by-boss-five.vercel.app/
+- https://boss-playground-v1.vercel.app/
 
-## 🤝 Let's Connect
-- Follow me on [GitHub](https://github.com/Sahasawat-Boss)
+
 
 Looking forward to collaborating together!
