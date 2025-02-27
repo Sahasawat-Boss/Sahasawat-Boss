@@ -1,6 +1,7 @@
 # Hello, I'm Boss 👋 
 
-I'm passionate about coding and constantly learning new technologies to improve my skills. 
+I'm passionate about coding and constantly learning new technologies to improve my skills.
+
 My Web: https://boss-website-bay.vercel.app/
 
 ## About Me
