@@ -1,15 +1,15 @@
 # Hello, I'm Boss 👋 
 
-I'm passionate about coding and constantly learning new technologies to improve my skills.
+I'm passionate about coding and constantly learning new technologies to enhance my development skills. 
 
-Currently learning new technologies to enhance my development skills. none stop! 
+Status: Coding and Learning none stop! 
 
-My Web: https://boss-website-bay.vercel.app/
+Check out my web: https://boss-website-bay.vercel.app/
 
 ## Contact
-- Gmail: sahasawat.rk@gmail.com
+- [My Github](https://github.com/Sahasawat-Boss)
 - Phone: 086-868-4466
-- [GitHub](https://github.com/Sahasawat-Boss)
+-  Gmail: sahasawat.rk@gmail.com
   
 ## 🛠️ Technologies & Tools
 
@@ -23,16 +23,41 @@ My Web: https://boss-website-bay.vercel.app/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - **Languages**: JavaScript and TypeScript
-- **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS
+- **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS, HTML, Vanilla CSS
 - **BackEnd Frameworks & Libraries**: Node, Express
-- **Tools & Platforms**: Prisma, Git, Docker
-- **Database and Service that I've used and tired**: PostgreSQL, MongoDB, Cloundinary
+- **Tools & Platforms**: Prisma, Github, Docker
+- **Database and Service**: PostgreSQL, MongoDB, Cloundinary
 - **Deployment Platform: Vercel
 
 My App Sample: 
 - https://ai-chatbot-v2-by-boss-five.vercel.app/
 - https://boss-playground-v1.vercel.app/
 
+---
+**Experience in IT Business Analyst Role**
 
+1. Requirement Gathering & Analysis
+- Studied, gathered, and analyzed business requirements and processes to support system design.
+- Worked closely with stakeholders to identify business needs and define project scope.
+
+2. System Design & Documentation
+- Designed and documented business workflows, application flows, app mockups, and system specifications.
+- Created wireframes and mockup to visualize system functionality and user experience.
+
+3. Stakeholder Communication
+- Conducted meetings with users to clarify, validate, and review requirements and business issues.
+- Acted as a bridge between end users and the development team to ensure seamless communication.
+
+4. Collaboration & Implementation
+- Worked closely with developers, UI/UX designers, and project managers to ensure successful system implementation.
+- Assisted in prioritizing and refining backlog items based on business impact and technical feasibility.
+
+5. Testing & Quality Assurance
+- Create and maintained test scripts and user manuals to support system functionality.
+- Conducted system testing to verify GUI, core functionalities, bug fixes, and overall system performance.
+
+6. Training & User Support
+- Demonstrated system functionality to IT teams and business users.
+- Conducted training sessions for end users, ensuring smooth adoption of new system features.
 
 Looking forward to collaborating together!
