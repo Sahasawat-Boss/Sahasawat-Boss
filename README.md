@@ -31,8 +31,8 @@ Check out my web: https://boss-website-bay.vercel.app/
 - **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS, HTML, Vanilla CSS
 - **BackEnd Frameworks & Libraries**: Node, Express
 - **Tools & Platforms**: Prisma, Github, Docker
-- **Database and Service**: PostgreSQL, MongoDB, Cloundinary
-- **Deployment Platform: Vercel
+- **Database and Service**: PostgreSQL, MongoDB, Cloundinary,Tidb-Clound, DBeaver 
+- **Deployment Platform: Vercel, Railway
 
 My App Sample: 
 - https://ai-chatbot-v2-by-boss-five.vercel.app/
