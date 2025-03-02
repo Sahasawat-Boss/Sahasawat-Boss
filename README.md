@@ -28,7 +28,7 @@ Check out my web: https://boss-website-bay.vercel.app/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - **Languages**: JavaScript and TypeScript
-- **FrontEnd Frameworks & Libraries**: React, Next.js, Tailwind CSS, HTML, Vanilla CSS
+- **FrontEnd Frameworks & Libraries**: Next.js,React,Tailwind CSS, HTML, Vanilla CSS
 - **BackEnd Frameworks & Libraries**: Node, Express
 - **Tools & Platforms**: Prisma, Github, Docker
 - **Database and Service**: PostgreSQL, MongoDB, Cloundinary,Tidb-Clound, DBeaver 
