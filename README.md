@@ -1,6 +1,6 @@
 # Hello, I'm Boss 👋 
 
-I'm passionate about coding and constantly learning new technologies to enhance my development skills. 
+I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
 Status: Coding and Learning none stop! 
 
@@ -65,4 +65,5 @@ My App Sample:
 - Demonstrated system functionality to IT teams and business users.
 - Conducted training sessions for end users, ensuring smooth adoption of new system features.
 
+---
 Looking forward to collaborating together!
