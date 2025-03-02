@@ -2,8 +2,6 @@
 
 I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
-Status: Coding and Learning none stop! 
-
 Check out my web>> https://boss-website-bay.vercel.app/
 
 ## Contact
