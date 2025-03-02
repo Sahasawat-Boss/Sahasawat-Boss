@@ -1,6 +1,6 @@
 # Hello, I'm Boss 👋 
 
-I'm passionate about coding and constantly learning new technologies to enhance my development skills. 
+I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
 Status: Coding and Learning none stop! 
 
