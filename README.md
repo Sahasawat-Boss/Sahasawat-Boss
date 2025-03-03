@@ -38,14 +38,14 @@ My App Sample:
 
 ---
 **Experience in IT Business Analyst Role**
-1. Requirement Gathering & Analysis
-2. System Design & Documentation
-3. Stakeholder Communication
-4. Collaboration & Implementation
-5. Testing & Quality Assurance
-6. Training & User Support
+- Requirement Gathering & Analysis
+- Workflow, Mockup Design and Documentation
+- Stakeholder Communication
+- Collaboration with DEV team
+- Testing & Quality Assurance
+- Training & User Support
 
 
 Looking forward to collaborating together!
 
-Latest Update: 03-Mar-2025 9.28am
+Latest Update: 03-Mar-2025 9.34 am
