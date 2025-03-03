@@ -64,5 +64,3 @@ My App Sample:
 - Conducted training sessions for end users, ensuring smooth adoption of new system features.
 
 Looking forward to collaborating together!
-
----
