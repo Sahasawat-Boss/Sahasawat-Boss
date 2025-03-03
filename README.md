@@ -8,6 +8,10 @@ Check out my web>> https://boss-website-bay.vercel.app/
 - My Github: https://github.com/Sahasawat-Boss
 - Phone: 086-868-4466
 -  Gmail: sahasawat.rk@gmail.com
+
+## My App Sample: 
+- https://ai-chatbot-v2-by-boss-five.vercel.app/
+- https://boss-playground-v1.vercel.app/   // Not Mobile Resposive
   
 ## 🛠️ Technologies & Tools
 
@@ -22,19 +26,12 @@ Check out my web>> https://boss-website-bay.vercel.app/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasawat-Boss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahasawat-Boss&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - **Languages**: JavaScript and TypeScript
 - **FrontEnd Frameworks & Libraries**: Next.js,React,Tailwind CSS, HTML, Vanilla CSS
 - **BackEnd Frameworks & Libraries**: Node, Express
 - **Tools & Platforms**: Prisma, Github, Docker
 - **Database and Service**: PostgreSQL, MongoDB, Cloundinary,Tidb-Clound, DBeaver 
 - **Deployment Platform**: Vercel, Railway
-
-My App Sample: 
-- https://ai-chatbot-v2-by-boss-five.vercel.app/
-- https://boss-playground-v1.vercel.app/   //Web-APP Resposive
 
 ---
 **Experience in IT Business Analyst Role**
