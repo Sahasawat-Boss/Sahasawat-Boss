@@ -5,7 +5,7 @@ I'm passionate about coding and constantly learning new technologies to enhance 
 Check out my web>> https://boss-website-bay.vercel.app/
 
 ## Contact
-- [My Github](https://github.com/Sahasawat-Boss)
+- My Github: https://github.com/Sahasawat-Boss
 - Phone: 086-868-4466
 -  Gmail: sahasawat.rk@gmail.com
   
