@@ -38,31 +38,14 @@ My App Sample:
 
 ---
 **Experience in IT Business Analyst Role**
-
 1. Requirement Gathering & Analysis
-- Studied, gathered, and analyzed business requirements and processes to support system design.
-- Worked closely with stakeholders to identify business needs and define project scope.
-
 2. System Design & Documentation
-- Designed and documented business workflows, application flows, app mockups, and system specifications.
-- Created wireframes and mockup to visualize system functionality and user experience.
-
 3. Stakeholder Communication
-- Conducted meetings with users to clarify, validate, and review requirements and business issues.
-- Acted as a bridge between end users and the development team to ensure seamless communication.
-
 4. Collaboration & Implementation
-- Worked closely with developers, UI/UX designers, and project managers to ensure successful system implementation.
-- Assisted in prioritizing and refining backlog items based on business impact and technical feasibility.
-
 5. Testing & Quality Assurance
-- Create and maintained test scripts and user manuals to support system functionality.
-- Conducted system testing to verify GUI, core functionalities, bug fixes, and overall system performance.
-
 6. Training & User Support
-- Demonstrated system functionality to IT teams and business users.
-- Conducted training sessions for end users, ensuring smooth adoption of new system features.
+
 
 Looking forward to collaborating together!
 
-Latest Update: 03-Mar-2025 9.26am
+Latest Update: 03-Mar-2025 9.28am
