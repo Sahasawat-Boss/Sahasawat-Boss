@@ -2,14 +2,14 @@
 
 I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
-Check out my web>> https://boss-website-bay.vercel.app/
+Check Out My Web >> https://boss-website-bay.vercel.app/
 
 ## Contact
 - My Github: https://github.com/Sahasawat-Boss
 - Phone: 086-868-4466
 -  Gmail: sahasawat.rk@gmail.com
 
-## My App Sample:
+## My Web-App Sample:
 - https://puresmile-clinic-by-boss-demo.vercel.app/ >> FrontEnd Project
 - https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Integration
 - https://boss-playground-v1.vercel.app/   // Not Mobile Resposive >> Fullstack Project
