@@ -9,7 +9,7 @@ Check Out My Web >> https://boss-website-bay.vercel.app/
 - Phone: 086-868-4466
 -  Gmail: sahasawat.rk@gmail.com
 
-## My Web-App Sample:
+## My Web-App Demo:
 - https://puresmile-clinic-by-boss-demo.vercel.app/ >> FrontEnd Project
 - https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Integration
 - https://boss-playground-v1.vercel.app/   // Not Mobile Resposive >> Fullstack Project
