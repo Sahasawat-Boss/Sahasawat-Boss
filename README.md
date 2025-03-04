@@ -24,7 +24,6 @@ Check Out My Web >> https://boss-website-bay.vercel.app/
 
   ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasawat-Boss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 - **Languages**: JavaScript and TypeScript
 - **FrontEnd Frameworks & Libraries**: Next.js,React,Tailwind CSS, HTML, Vanilla CSS
