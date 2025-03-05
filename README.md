@@ -45,5 +45,3 @@ Check Out My Web >> https://boss-website-bay.vercel.app/
 
 
 Looking forward to collaborating together!
-
-Latest Update: 03-Mar-2025
