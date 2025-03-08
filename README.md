@@ -10,8 +10,9 @@ Check Out My Web >> https://boss-website-bay.vercel.app/
 -  Gmail: sahasawat.rk@gmail.com
 
 ## My Web-App Demo:
+- https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
 - https://puresmile-clinic-by-boss-demo.vercel.app/ >> FrontEnd Project
-- https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Integration
+- https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Chatbot - Limited API
 - https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
   
 ## 🛠️ Technologies & Tools
