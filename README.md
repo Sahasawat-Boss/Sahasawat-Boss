@@ -6,16 +6,16 @@ Check Out My Web >> https://boss-website-bay.vercel.app/
 
 Short Clip of My Product: https://youtube.com/shorts/clgYv5FfHHw
 
-## Contact
-- My Github: https://github.com/Sahasawat-Boss
-- Phone: 086-868-4466
--  Gmail: sahasawat.rk@gmail.com
-
 ## My Web-App Demo:
 - https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
 - https://puresmile-clinic-by-boss-demo.vercel.app/ >> FrontEnd Project
 - https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Chatbot - Limited API
 - https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
+
+## Contact
+- My Github: https://github.com/Sahasawat-Boss
+- Phone: 086-868-4466
+-  Gmail: sahasawat.rk@gmail.com
   
 ## 🛠️ Technologies & Tools
 
