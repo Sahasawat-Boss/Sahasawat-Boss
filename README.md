@@ -1,5 +1,6 @@
 # Hello, I'm Boss 👋 
 
+
 I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
 Check Out My Web >> https://boss-website-bay.vercel.app/
@@ -45,5 +46,6 @@ Introduction of My Product: https://youtube.com/shorts/clgYv5FfHHw
 - Testing & Quality Assurance
 - Training & User Support
 
+![BSynth01](https://github.com/user-attachments/assets/407ae353-1139-4fd2-8ce7-260a865afa32)
 
 Looking forward to collaborating together!
