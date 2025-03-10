@@ -9,7 +9,7 @@ Introduction of My Product: https://youtube.com/shorts/clgYv5FfHHw
 
 ## My Web-App Demo:
 - https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
-- https://puresmile-clinic-by-boss-demo.vercel.app/ >> FrontEnd Project
+- https://puresmile-clinic-by-boss-demo.vercel.app/ >> FrontEnd Landing Page
 - https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Chatbot - Limited API
 - https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
 
