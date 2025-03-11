@@ -5,7 +5,7 @@ I'm passionate about coding and constantly learning new technologies to enhance 
 
 Check Out My Web >> https://boss-website-bay.vercel.app/
 
-Introduction of My Product: 
+## My Product VDO
 
 BSlip-Checker >> https://youtube.com/shorts/ylGrFObM-uw
 
@@ -18,9 +18,9 @@ Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
 - https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
 
 ## Contact
-- My Github: https://github.com/Sahasawat-Boss
 - Phone: 086-868-4466
--  Gmail: sahasawat.rk@gmail.com
+- Gmail: sahasawat.rk@gmail.com
+- My Github: https://github.com/Sahasawat-Boss
   
 ## 🛠️ Technologies & Tools
 
@@ -51,4 +51,4 @@ Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
 - Training & User Support
 
 
-Looking forward to collaborating together!
+# Looking forward to collaborating together!
