@@ -5,7 +5,11 @@ I'm passionate about coding and constantly learning new technologies to enhance 
 
 Check Out My Web >> https://boss-website-bay.vercel.app/
 
-Introduction of My Product: https://youtube.com/shorts/clgYv5FfHHw
+Introduction of My Product: 
+
+BSlip-Checker >> https://youtube.com/shorts/ylGrFObM-uw
+
+Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
 
 ## My Web-App Demo:
 - https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
