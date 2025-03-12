@@ -1,6 +1,5 @@
 # Hello, I'm Boss 👋 
 
-
 I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
 Check Out My Web >> https://boss-website-bay.vercel.app/
