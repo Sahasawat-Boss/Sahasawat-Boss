@@ -6,9 +6,8 @@ Check Out My Web >> https://boss-website-bay.vercel.app/
 
 ## My Product VDO
 
-BSlip-Checker >> https://youtube.com/shorts/ylGrFObM-uw
-
-Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
+- BSlip-Checker >> https://youtube.com/shorts/ylGrFObM-uw
+- Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
 
 ## My Web-App Demo:
 - https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
