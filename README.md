@@ -34,11 +34,12 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 
 ## Stack
 - **Languages**: JavaScript and TypeScript
-- **FrontEnd Frameworks & Libraries**: Next.js,React,Tailwind CSS, HTML, Vanilla CSS
+- **FrontEnd Frameworks & Libraries**: Next.js, React, Tailwind CSS, HTML, Vanilla CSS
 - **BackEnd Frameworks & Libraries**: Node, Express, NestJS
-- **Tools & Platforms**: Prisma, Github, Docker
-- **Database and Service**: PostgreSQL, MongoDB, Cloundinary,Tidb-Clound, DBeaver 
+- **Tools & Platforms**: Prisma, Github, Docker, XAMPP
+- **Database and Service**: PostgreSQL, MongoDB, Cloundinary, Tidb-Clound, DBeaver, Neon
 - **Deployment Platform**: Vercel, Railway, Netlify
+- **Domain Management**: HostAtom
 
 ## **Experience in IT Business Analyst Role**
 - Requirement Gathering & Analysis
