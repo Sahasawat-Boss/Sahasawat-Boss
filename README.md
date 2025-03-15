@@ -30,8 +30,6 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 
   ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-  ![Sahasawat-Boss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasawat-Boss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ## Stack
 - **Languages**: JavaScript and TypeScript
 - **FrontEnd Frameworks & Libraries**: Next.js, React, Vue, Tailwind CSS, HTML, Vanilla CSS
@@ -40,6 +38,8 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 - **Database and Service**: PostgreSQL, MongoDB, Cloundinary, Tidb-Clound, DBeaver, Neon
 - **Deployment Platform**: Vercel, Railway, Netlify
 - **Domain Management**: HostAtom
+
+![image](https://github.com/user-attachments/assets/d4db3848-fdc8-4b42-b82b-bd6fffd09f8e)
 
 ## **Experience in IT Business Analyst Role**
 - Requirement Gathering & Analysis
