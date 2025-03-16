@@ -40,7 +40,7 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 - **Domain Management**: HostAtom
 - **Code Editor**: Cursor Ai, VsCode
 
-![image](https://github.com/user-attachments/assets/d4db3848-fdc8-4b42-b82b-bd6fffd09f8e)
+![image](https://github.com/user-attachments/assets/e6d928f6-0eb4-4bad-8df5-5c38c106a107)
 
 ## **Experience in IT Business Analyst Role**
 - Requirement Gathering & Analysis
