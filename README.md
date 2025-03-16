@@ -38,6 +38,7 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 - **Database and Service**: PostgreSQL, MongoDB, Cloundinary, Tidb-Clound, DBeaver, Neon
 - **Deployment Platform**: Vercel, Railway, Netlify
 - **Domain Management**: HostAtom
+- **Code Editor**: Cursor Ai, VsCode
 
 ![image](https://github.com/user-attachments/assets/d4db3848-fdc8-4b42-b82b-bd6fffd09f8e)
 
