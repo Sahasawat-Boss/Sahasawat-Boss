@@ -38,6 +38,7 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 - **Database and Service**: PostgreSQL, MongoDB, Cloudinary, Tidb-Cloud, DBeaver, Neon
 - **Deployment Platform**: Vercel, Railway, Netlify
 - **Domain Management**: HostAtom
+- **SEO**: Google Search Console
 - **Code Editor**: Cursor Ai, VsCode
 
 ## **Experience in IT Business Analyst Role**
