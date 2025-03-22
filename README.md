@@ -48,6 +48,5 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-bay.vercel.a
 - Testing & Quality Assurance
 - Training & User Support
 
-
-### Looking forward to collaborating together!
+Looking forward to collaborating together!
 
