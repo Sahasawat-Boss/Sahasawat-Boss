@@ -10,15 +10,15 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 - Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
 
 ## My Web-App Demo:
-- https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
-- https://puresmile-clinic-bsynth-demo.vercel.app/ >> FrontEnd Landing Page
+- https://vueflix-demo.netlify.app/ >> Movie App
+- https://puresmile-clinic-bsynth-demo.vercel.app/ >> Clinic Landing Page
+- - https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
 - https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Chatbot - Limited API
 - https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
 
 ## Contact
 - Phone: 086-868-4466
 - Gmail: sahasawat.rk@gmail.com
-- My Github: https://github.com/Sahasawat-Boss
   
 ## 🛠️ Technologies & Tools
 
