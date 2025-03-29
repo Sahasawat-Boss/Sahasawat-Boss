@@ -11,9 +11,7 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 
 ## My Web-App Demo:
 - https://vueflix-demo.netlify.app/ >> Movie App
-- https://puresmile-clinic-bsynth-demo.vercel.app/ >> Clinic Landing Page
-- - https://ai-summarizer-boss-demo.netlify.app/ >>  AI Summarizer 
-- https://ai-chatbot-v2-by-boss-five.vercel.app/ >> AI Chatbot - Limited API
+- https://puresmile-clinic-bsynth-demo.vercel.app/ >> Clinic Landing Page 
 - https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
 
 ## Contact
