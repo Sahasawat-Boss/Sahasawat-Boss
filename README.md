@@ -6,13 +6,12 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 
 ## My Product VDO
 
-- BSlip-Checker >> https://youtube.com/shorts/ylGrFObM-uw
-- Ai-Summarizer >> https://youtube.com/shorts/clgYv5FfHHw
+- [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
+- [Ai-Summarizer](https://youtube.com/shorts/clgYv5FfHHw)
 
 ## My Web-App Demo:
-- https://vueflix-demo.netlify.app/ >> Movie App
-- https://puresmile-clinic-bsynth-demo.vercel.app/ >> Clinic Landing Page 
-- https://boss-playground-v1.vercel.app/   // Not Mobile Responsive >> Fullstack Project
+- [VueFlix](https://vueflix-demo.netlify.app/) | Movie App
+- [PureSmile Clinic](https://puresmile-clinic-bsynth-demo.vercel.app/) | Landing Page Sample
 
 ## Contact
 - Phone: 086-868-4466
@@ -28,6 +27,13 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) and more...
 
+## **Experience in IT Business Analyst Role**
+- Requirement Gathering & Analysis
+- System, workflow, Mockup Design & Documentations
+- Collaboration with Stakeholder and Implementation (Developer) Team 
+- Testing & Quality Assurance
+- Training & User Support
+
 ## Stack
 - **Languages**: JavaScript, TypeScript, Python (Learning...)
 - **FrontEnd Frameworks & Libraries**: Next.js, React, Vue, Tailwind CSS, HTML, Vanilla CSS
@@ -38,13 +44,6 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 - **Domain Management**: HostAtom
 - **SEO**: Google Search Console
 - **Code Editor**: Cursor Ai, VsCode
-
-## **Experience in IT Business Analyst Role**
-- Requirement Gathering & Analysis
-- System, workflow, Mockup Design & Documentations
-- Collaboration with Stakeholder and Implementation (Developer) Team 
-- Testing & Quality Assurance
-- Training & User Support
 
 Looking forward to collaborating together!
 
