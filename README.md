@@ -4,14 +4,15 @@ I'm passionate about coding and constantly learning new technologies to enhance 
 
 Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.app/
 
+## My Web-App Demo:
+- [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Online Reader App
+- [VueFlix](https://vueflix-demo.netlify.app/) | Movie Preview 
+- [PureSmile Clinic](https://puresmile-clinic-bsynth-demo.vercel.app/) | Landing Page Sample
+
 ## My Product VDO
 
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 - [Ai-Summarizer](https://youtube.com/shorts/clgYv5FfHHw)
-
-## My Web-App Demo:
-- [VueFlix](https://vueflix-demo.netlify.app/) | Movie App
-- [PureSmile Clinic](https://puresmile-clinic-bsynth-demo.vercel.app/) | Landing Page Sample
 
 ## Contact
 - Phone: 086-868-4466
