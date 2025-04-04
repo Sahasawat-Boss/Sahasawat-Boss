@@ -44,7 +44,6 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 - **Deployment Platform**: Vercel, Railway, Netlify
 - **Domain Management**: HostAtom
 - **SEO**: Google Search Console
-- **Code Editor**: Cursor Ai, VsCode
 
 Looking forward to collaborating together!
 
