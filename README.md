@@ -37,7 +37,7 @@ Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.ap
 - Training & User Support
 
 ## Stack
-- **Languages**: JavaScript, TypeScript, Python (Learning...)
+- **Languages**: JavaScript, TypeScript
 - **FrontEnd Frameworks & Libraries**: Next.js, React, Vue, Tailwind CSS, HTML, Vanilla CSS
 - **BackEnd Frameworks & Libraries**: Node, Express, NestJS
 - **Tools & Platforms**: Prisma, Github, Docker, XAMPP
