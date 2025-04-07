@@ -5,6 +5,7 @@ I'm passionate about coding and constantly learning new technologies to enhance 
 Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.app/
 
 ## My Web-App Demo:
+- [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
 - [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience 
 - [VueFlix](https://vueflix-demo.netlify.app/) |  A Stylish Vue-Based Movie Streaming UI
 - [PureSmile Clinic](https://puresmile-clinic-bsynth-demo.vercel.app/) | Clinic Landing Page Sample
