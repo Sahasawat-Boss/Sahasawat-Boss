@@ -2,6 +2,8 @@
 
 I'm passionate about coding and constantly learning new technologies to enhance my development skills.
 
+If you're looking for a developer who understands both business and technology, who’s eager to learn, grow, and build something meaningful — then I’m the one you're looking for.
+
 Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.app/
 
 ## My Web-App Demo:
