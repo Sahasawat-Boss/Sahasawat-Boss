@@ -4,7 +4,9 @@ I'm passionate about coding and constantly learning new technologies to enhance 
 
 If you're looking for a developer who understands both business and technology, who’s eager to learn, grow, and build something meaningful — then I’m the one you're looking for.
 
-Check Out My Web >> https://bossbsynth.com/ or https://boss-website-v2.vercel.app/
+Check Out My Web and Portfolio: https://bossbsynth.com
+
+Check Out Bsynth Hub: https://bsynth-hub.vercel.app
 
 ## My Web-App Demo:
 - [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
