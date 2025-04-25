@@ -6,7 +6,7 @@ If you're looking for a developer who understands both business and technology, 
 
 Check Out My Web and Portfolio: https://bossbsynth.com
 
-Check Out Bsynth Hub: https://bsynth-hub.vercel.app
+Check Out BSynth Hub: https://bsynth-hub.vercel.app
 
 ## My Web-App Demo:
 - [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
