@@ -6,7 +6,10 @@ If you're looking for a developer who understands both business and technology, 
 
 Check Out My Web and Portfolio: https://bossbsynth.com
 
+## BSynth Hub (Community)
 Check Out BSynth Hub: https://bsynth-hub.vercel.app
+
+BSynth Hub Clip: https://youtu.be/5jktxzYO5YE?si=6WfMKVYsZj9TdQmk
 
 ## My Web-App Demo:
 - [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
@@ -15,7 +18,7 @@ Check Out BSynth Hub: https://bsynth-hub.vercel.app
 - [VueFlix](https://vueflix-demo.netlify.app/) |  A Stylish Vue-Based Movie Streaming UI
 - [PureSmile Clinic](https://puresmile-clinic-bsynth-demo.vercel.app/) | Clinic Landing Page Sample
 
-## My Product VDO
+## My Product Clip
 
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 - [Ai-Summarizer](https://youtube.com/shorts/clgYv5FfHHw)
