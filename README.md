@@ -4,12 +4,17 @@ I'm passionate about business, coding and constantly learning new technologies t
 
 If you're looking for a developer who understands both business and technology, who’s eager to learn, grow, and build something meaningful — then I’m the one you're looking for.
 
-Check Out My Web and Portfolio: https://bossbsynth.com
+## My Web and Portfolio
+https://bossbsynth.com
+
+## Client Projects
+Real-world freelance and contract-based projects for actual businesses.
+- [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## BSynth Hub (Community)
 Check Out BSynth Hub: https://bsynth-hub.vercel.app
 
-BSynth Hub Clip: https://youtu.be/5jktxzYO5YE?si=6WfMKVYsZj9TdQmk
+BSynth Hub Clip: https://youtube.com/shorts/5jktxzYO5YE
 
 ## My Web-App Demo:
 - [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
@@ -20,6 +25,7 @@ BSynth Hub Clip: https://youtu.be/5jktxzYO5YE?si=6WfMKVYsZj9TdQmk
 
 ## My Product Clip
 
+- [BSynth-Hub](https://youtube.com/shorts/5jktxzYO5YE)
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 - [Ai-Summarizer](https://youtube.com/shorts/clgYv5FfHHw)
 
