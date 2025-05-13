@@ -54,7 +54,7 @@ BSynth Hub Clip: https://youtube.com/shorts/5jktxzYO5YE
 
 ## Stack
 - **Languages**: JavaScript, TypeScript
-- **FrontEnd Frameworks & Libraries**: Next.js, React, Vue, Tailwind CSS, HTML, Vanilla CSS
+- **FrontEnd Frameworks & Libraries**: Next.js, React, Vue, Tailwind CSS, HTML, Vanilla CSS, SCSS
 - **BackEnd Frameworks & Libraries**: Node, Express, NestJS
 - **Tools & Platforms**: Prisma, Github, Docker, XAMPP
 - **Database and Service**: PostgreSQL, MongoDB, Cloudinary, Tidb-Cloud, DBeaver, Neon
