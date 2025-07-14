@@ -7,7 +7,7 @@ I bridge the gap between real-world needs and effective digital products—and I
 https://bossbsynth.com
 
 ## Client Projects
-Real-world freelance and contract-based projects for actual businesses.
+one of my client project
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## BSynth Hub (Community)
