@@ -4,22 +4,21 @@ Passionate about both web development and business analysis, I blend technical s
 I bridge the gap between real-world needs and effective digital products—and I’m ready to contribute to your team.
 
 ## Website
-https://bossbsynth.com
+[https://bossbsynth.com](https://bossbsynth.com)
 
 ## Client Projects
 one of my client project
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
-## BSynth Hub (Community)
-Check Out BSynth Hub: https://bsynth-hub.vercel.app
-BSynth Hub Clip: https://youtube.com/shorts/5jktxzYO5YE
+## VSCODE Extensions
+- [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
 ## My Web-App Demo:
 - [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
 - [Nuxi-Recipes](https://nuxi-recipes-demo.netlify.app/) | Beginner-friendly recipe app
 - [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience 
 - [VueFlix](https://vueflix-demo.netlify.app/) |  A Stylish Vue-Based Movie Streaming UI
-- [PureSmile Clinic](https://puresmile-clinic-bsynth-demo.vercel.app/) | Clinic Landing Page Sample
+- [BSynth old Version](https://my-web-v2-oldversion.vercel.app/)
 
 ## My Product Clip
 
