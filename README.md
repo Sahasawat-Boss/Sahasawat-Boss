@@ -8,6 +8,7 @@ I bridge the gap between real-world needs and effective digital products—and I
 
 ## Client Projects
 one of my client project
+- [Quantum Med](https://quantum-med.vercel.app/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## VSCODE Extensions
