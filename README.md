@@ -8,8 +8,9 @@ I bridge the gap between real-world needs and effective digital products—and I
 
 ## Client Projects
 one of my client project
-- [Quantum Med](https://quantum-med.vercel.app/)
+- [Quantum Med](https://www.quantum-med.net/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
+
 
 ## VSCODE Extensions
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
