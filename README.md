@@ -6,6 +6,9 @@ I bridge the gap between real-world needs and effective digital products—and I
 ## Website
 [https://bossbsynth.com](https://bossbsynth.com)
 
+## Game
+[Warrior’s Odyssey](https://warriors-odyssey.vercel.app/)
+
 ## Client Projects
 one of my client project
 - [Quantum Med](https://www.quantum-med.net/)
