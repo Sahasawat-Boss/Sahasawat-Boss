@@ -1,7 +1,6 @@
 # Hello, I'm Boss 👋 
 
 Passionate about both web development and business analysis, I blend technical skills with business insight to create modern, user-friendly solutions. 
-I bridge the gap between real-world needs and effective digital products—and I’m ready to contribute to your team.
 
 ## Website
 [https://bossbsynth.com](https://bossbsynth.com)
