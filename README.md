@@ -11,7 +11,7 @@ Passionate about both web development and business analysis, I blend technical s
 [Aegis Protocol](https://turnbase-aegis-protocal.vercel.app/) (Under Development / On Hold)
 
 ## Client Projects
-one of my client project
+Some of my client project
 - [Quantum Med](https://www.quantum-med.net/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
