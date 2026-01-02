@@ -8,7 +8,7 @@ Passionate about both web development and business analysis, I blend technical s
 ## Game
 [Warrior’s Odyssey](https://warriors-odyssey.vercel.app/)
 
-[Aegis Protocol](https://turnbase-aegis-protocal.vercel.app/) (Under Development / On Hold)
+[Aegis Protocol](https://turnbase-aegis-protocal.vercel.app/) (Under Development - Comming Soon!)
 
 ## Client Projects
 Some of my client project
