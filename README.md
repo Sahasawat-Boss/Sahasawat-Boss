@@ -8,9 +8,9 @@ Passionate about both web development and business analysis, I blend technical s
 [https://web2.bossbsynth.com/](https://web2.bossbsynth.com/) - Previous version of the site.
 
 ## Game
-[Warrior’s Odyssey](https://warriors-odyssey.vercel.app/)
+[Aegis Protocol](https://game02.aegis.bossbsynth.com/) (Under Development - Comming Soon!)
 
-[Aegis Protocol](https://turnbase-aegis-protocal.vercel.app/) (Under Development - Comming Soon!)
+[Warrior’s Odyssey](https://game02.aegis.bossbsynth.com/)
 
 ## Client Projects
 Some of my client project
