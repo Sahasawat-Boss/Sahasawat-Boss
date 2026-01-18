@@ -3,7 +3,8 @@
 Passionate about both web development and business analysis, I blend technical skills with business insight to create modern, user-friendly solutions. 
 
 ## Website
-[https://bossbsynth.com](https://bossbsynth.com)
+[https://bossbsynth.com](https://bossbsynth.com) - Upgrading to a newer version.
+[https://web2.bossbsynth.com/](https://web2.bossbsynth.com/) - Previous version of the site.
 
 ## Game
 [Warrior’s Odyssey](https://warriors-odyssey.vercel.app/)
@@ -24,7 +25,6 @@ Some of my client project
 - [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
 - [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience 
 - [VueFlix](https://vueflix-demo.netlify.app/) |  A Stylish Vue-Based Movie Streaming UI
-- [BSynth old Version](https://my-web-v2-oldversion.vercel.app/)
 
 ## My Product Clip
 
