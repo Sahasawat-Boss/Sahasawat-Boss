@@ -10,7 +10,7 @@ Passionate about both web development and business analysis, I blend technical s
 ## Game
 [Aegis Protocol](https://game02.aegis.bossbsynth.com/) (Under Development - Comming Soon!)
 
-[Warrior’s Odyssey](https://game02.aegis.bossbsynth.com/)
+[Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
 
 ## Client Projects
 Some of my client project
