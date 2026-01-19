@@ -8,7 +8,7 @@ Passionate about both web development and business analysis, I blend technical s
 [https://web2.bossbsynth.com/](https://web2.bossbsynth.com/) - Previous version of the site
 
 ## Game
-[Aegis Protocol](https://game02.aegis.bossbsynth.com/) (Under Development - Comming Soon!)
+[Aegis Protocol](https://game02.aegis.bossbsynth.com/) (In Development — Early Playable Version Available)
 
 [Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
 
