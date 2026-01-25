@@ -18,7 +18,7 @@ Some of my client project
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## Chrome Extension
-- [Quick Note](https://chromewebstore.google.com/detail/quick-note/hnbelenilkmibaacgoihcjmpfdgkdfed?hl=en-US&utm_source=ext_sidebar)
+- [Quick Note](https://chromewebstore.google.com/detail/hnbelenilkmibaacgoihcjmpfdgkdfed?utm_source=item-share-cb)
 
 ## VSCODE Extension
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
