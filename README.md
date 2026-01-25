@@ -3,9 +3,9 @@
 Passionate about both web development and business analysis, I blend technical skills with business insight to create modern, user-friendly solutions. 
 
 ## Website
-[https://bossbsynth.com] Upgrading to a newer version
+[https://bossbsynth.com](https://bossbsynth.com) Upgrading to a newer version
 
-[https://web3.bossbsynth.com/](https://web3.bossbsynth.com/) - Previous version of the site
+[https://web3.bossbsynth.com](https://web3.bossbsynth.com) - Previous version of the site
 
 ## Game
 [Aegis Protocol](https://game02.aegis.bossbsynth.com/) (In Development — Early Playable Version Available)
