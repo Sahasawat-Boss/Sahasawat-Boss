@@ -3,9 +3,9 @@
 Passionate about both web development and business analysis, I blend technical skills with business insight to create modern, user-friendly solutions. 
 
 ## Website
-[https://bossbsynth.com](https://bossbsynth.com) - Early Access — Website under development.
+[https://www.bossbsynth.com](https://bossbsynth.com) - Early Access — Website under development.
 
-[https://web3.bossbsynth.com](https://web3.bossbsynth.com) - Previous version of the site
+[https://www.web3.bossbsynth.com](https://web3.bossbsynth.com) - Previous version of the site
 
 ## Game
 [Aegis Protocol](https://game02.aegis.bossbsynth.com/) - Early Playable Version Available — Game under development 
