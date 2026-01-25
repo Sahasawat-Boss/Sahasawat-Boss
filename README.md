@@ -17,7 +17,7 @@ Some of my client project
 - [Quantum Med](https://www.quantum-med.net/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
-## Chrome Extension
+## Browser Extension (Chrome & Microsoft Edge)
 - [Quick Note](https://chromewebstore.google.com/detail/hnbelenilkmibaacgoihcjmpfdgkdfed?utm_source=item-share-cb)
 
 ## VSCODE Extension
