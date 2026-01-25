@@ -17,8 +17,10 @@ Some of my client project
 - [Quantum Med](https://www.quantum-med.net/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
+## Chrome Extension
+- [Quick Note](https://chromewebstore.google.com/detail/quick-note/hnbelenilkmibaacgoihcjmpfdgkdfed?hl=en-US&utm_source=ext_sidebar)
 
-## VSCODE Extensions
+## VSCODE Extension
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
 ## My Web-App Demo:
