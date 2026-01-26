@@ -20,7 +20,7 @@ Some of my client project
 ## Browser Extension (Chrome & Microsoft Edge)
 - [Quick Note](https://chromewebstore.google.com/detail/hnbelenilkmibaacgoihcjmpfdgkdfed?utm_source=item-share-cb)
 
-## VSCODE Extension
+## VS Code Extension
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
 ## My Web-App Demo:
