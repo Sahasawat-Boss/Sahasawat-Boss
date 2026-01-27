@@ -27,7 +27,7 @@ Some of my client project
 
 ## My Web-App Demo:
 - [ECS Car Services](https://ecs-carservice.bossbsynth.com/) | A modern, responsive automotive service website
-- [DailyDrip](https://daily-drip-coffee-cafe.vercel.app/) | A modern, responsive coffee shop website built
+- [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
 - [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience 
 - [VueFlix](https://vueflix-demo.netlify.app/) |  A Stylish Vue-Based Movie Streaming UI
 
