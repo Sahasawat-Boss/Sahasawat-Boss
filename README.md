@@ -60,7 +60,7 @@ Some of my client project
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-SEO and Google Tools
++ SEO and Google Tools
 
 <img width="192" height="192" alt="icon" src="https://github.com/user-attachments/assets/34e6ffba-b782-4271-ac78-17e1031a70a2" />
 
