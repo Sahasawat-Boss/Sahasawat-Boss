@@ -40,6 +40,7 @@ Some of my client project
 ## Contact
 - Phone: 086-868-4466
 - Gmail: sahasawat.rk@gmail.com
+<img width="192" height="192" alt="icon" src="https://github.com/user-attachments/assets/34e6ffba-b782-4271-ac78-17e1031a70a2" />
   
 ## 🛠️ Technologies & Tools
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -59,8 +60,7 @@ Some of my client project
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+SEO and Google Tools
 
-+ SEO and Google Tools
 
-<img width="192" height="192" alt="icon" src="https://github.com/user-attachments/assets/34e6ffba-b782-4271-ac78-17e1031a70a2" />
 
