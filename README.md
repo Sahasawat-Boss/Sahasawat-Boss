@@ -3,16 +3,16 @@
 Passionate about both web development and business analysis, I blend technical skills with business insight to create modern, user-friendly solutions. 
 
 ## Website
-[https://www.bossbsynth.com](https://bossbsynth.com) - Early Access — Website under development.
+- [https://www.bossbsynth.com](https://bossbsynth.com) - Early Access — Website under development.
 
-[https://www.web3.bossbsynth.com](https://web3.bossbsynth.com) - Previous version of the site
+- [https://www.web3.bossbsynth.com](https://web3.bossbsynth.com) - Previous version of the site
 
-[https://www.web2.bossbsynth.com](https://web2.bossbsynth.com) - Previous version of the site
+- [https://www.web2.bossbsynth.com](https://web2.bossbsynth.com) - Previous version of the site
 
 ## Game
-[Aegis Protocol](https://game02.aegis.bossbsynth.com/) - Early Playable Version Available — Game under development 
+- [Aegis Protocol](https://game02.aegis.bossbsynth.com/) - Early Playable Version Available — Game under development 
 
-[Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
+- [Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
 
 ## Client Projects
 Some of my client project
