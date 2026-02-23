@@ -26,7 +26,7 @@ Some of my client project
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
 ## My Web-App Demo:
-[CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
+- [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
 - [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
 - [ECS Car Services](https://ecs-carservice.bossbsynth.com/) | A modern, responsive automotive service website
 - [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience 
