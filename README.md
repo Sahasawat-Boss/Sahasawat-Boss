@@ -34,9 +34,7 @@ Some of my client project
 
 ## My Product Clip
 - [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY)
-- [BSynth-Hub](https://youtube.com/shorts/5jktxzYO5YE)
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
-- [Ai-Summarizer](https://youtube.com/shorts/clgYv5FfHHw)
 
 ## Contact
 - Phone: 086-868-4466
