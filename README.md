@@ -1,6 +1,6 @@
 # Hello, I'm Boss 👋 
 
-Passionate about both web development and business analysis, I blend technical skills with business insight to create modern, user-friendly solutions. 
+Passionate about web development and business analysis, I transform business ideas into modern, user-friendly digital products.
 
 ## Website
 - [https://www.bossbsynth.com](https://bossbsynth.com) - Early Access — Website under development.
