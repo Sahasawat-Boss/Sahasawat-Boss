@@ -22,8 +22,8 @@ Some of my client project
 - [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience
 
 ## My Product Clip
-- [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ) - CMS + Website
-- [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) - E-commerce + Website
+- [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS + Website
+- [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | E-commerce + Website
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 
 ## Browser Extension (Chrome & Microsoft Edge)
