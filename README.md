@@ -16,18 +16,18 @@ Some of my client project
 - [Quantum Med](https://www.quantum-med.net/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
-## My Web-App Demo:
-- [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
-- [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
-- [ECS Car Services](https://ecs-carservice.bossbsynth.com/) | A modern, responsive automotive service website
-- [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience
-
 ## My Product Clip
 - [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Landing Page for Business
 - [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS + Website
 - [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | E-commerce + Website
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 
+## My Web-App Demo:
+- [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
+- [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
+- (Old) [ECS Car Services](https://ecs-carservice.bossbsynth.com/) | A modern, responsive automotive service website
+- (Old) [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience
+- 
 ## Browser Extension (Chrome & Microsoft Edge)
 - [Quick Note](https://chromewebstore.google.com/detail/hnbelenilkmibaacgoihcjmpfdgkdfed?utm_source=item-share-cb)
 
