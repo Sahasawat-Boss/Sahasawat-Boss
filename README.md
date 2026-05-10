@@ -33,12 +33,12 @@ Some of my client project
 
 ## VS Code Extension
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
-
+<img width="602" height="536" alt="Screenshot 2026-05-10 221742" src="https://github.com/user-attachments/assets/e1869a21-d42d-440d-b1d6-5e7ee0f64bd3" />
 
 ## Contact
 - Phone: 086-868-4466
 - Gmail: sahasawat.rk@gmail.com
-<img width="192" height="192" alt="icon" src="https://github.com/user-attachments/assets/34e6ffba-b782-4271-ac78-17e1031a70a2" />
+
   
 ## 🛠️ Technologies & Tools
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
