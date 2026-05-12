@@ -4,6 +4,9 @@ Passionate about web development and business analysis, I transform business ide
 
 ## Website
 - [https://www.bossbsynth.com](https://bossbsynth.com)
+- [BSynth Video](https://www.youtube.com/shorts/-lLU62ek258)
+<img width="1491" height="957" alt="bsynth-og" src="https://github.com/user-attachments/assets/dbe13ecf-f6cb-4e82-9a1f-9ad2ee710575" />
+
 
 ## Game
 - [Aegis Protocol](https://game02.aegis.bossbsynth.com/) - Early Playable Version Available — Game under development 
@@ -23,6 +26,7 @@ Some of my client project
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 
 ## My Web-App Demo:
+- [BSynth](https://www.youtube.com/shorts/-lLU62ek258) | Showcase of my cinematic and interactive portfolio website experience.
 - [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
 - [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
 - (Old) [ECS Car Services](https://ecs-carservice.bossbsynth.com/) | A modern, responsive automotive service website
@@ -33,13 +37,14 @@ Some of my client project
 
 ## VS Code Extension
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
-<img width="602" height="536" alt="Screenshot 2026-05-10 221742" src="https://github.com/user-attachments/assets/e1869a21-d42d-440d-b1d6-5e7ee0f64bd3" />
+
+
 
 ## Contact
 - Phone: 086-868-4466
 - Gmail: sahasawat.rk@gmail.com
+<img width="96" height="96" alt="BSynthLogo" src="https://github.com/user-attachments/assets/03834511-3550-406a-a8ec-cb0694d86399" />
 
-  
 ## 🛠️ Technologies & Tools
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
