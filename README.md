@@ -5,8 +5,7 @@ Passionate about web development and business analysis, I transform business ide
 ## Website
 - [https://www.bossbsynth.com](https://bossbsynth.com)
 - [BSynth Video](https://www.youtube.com/shorts/-lLU62ek258)
-<img width="1491" height="957" alt="bsynth-og" src="https://github.com/user-attachments/assets/dbe13ecf-f6cb-4e82-9a1f-9ad2ee710575" />
-
+<img width="1492" height="989" alt="bsynth-home-og" src="https://github.com/user-attachments/assets/61889b96-3d7d-45a1-9939-d3e059fa958a" />
 
 ## Game
 - [Aegis Protocol](https://game02.aegis.bossbsynth.com/) - Early Playable Version Available — Game under development 
@@ -65,5 +64,10 @@ Some of my client project
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 SEO and Google Tools
 
+
+
+<img width="1494" height="973" alt="Screenshot 2026-05-12 110801" src="https://github.com/user-attachments/assets/f6ff5c0a-7941-4b53-9994-6307ae7be8d6" />
+
+<img width="1243" height="982" alt="Screenshot 2026-05-12 112029" src="https://github.com/user-attachments/assets/b511d24c-5fcb-4562-b6a6-88d2829adddc" />
 
 
