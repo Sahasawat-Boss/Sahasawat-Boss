@@ -24,11 +24,12 @@ Some of my client project
 - [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | E-commerce + Website
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
 
-## My Web-App Demo:
+## My Web/App Demo:
 - [BSynth](https://www.youtube.com/shorts/-lLU62ek258) | Showcase of my cinematic and interactive portfolio website experience.
+- [ØRAIR Living Interior](https://borair-interior.bossbsynth.com/) | Cinematic luxury interior showcase experience with modern interactive visual storytelling.
+- [BSynth CMS Demo](https://demo-web-cms.bossbsynth.com/) | Modern web CMS/admin dashboard showcase with clean UI and content management workflow.
 - [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
-- [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
-- (Old) [ECS Car Services](https://ecs-carservice.bossbsynth.com/) | A modern, responsive automotive service website
+- (Old)  [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
 - (Old) [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience
 - 
 ## Browser Extension (Chrome & Microsoft Edge)
@@ -36,7 +37,6 @@ Some of my client project
 
 ## VS Code Extension
 - [timestamp by boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
-
 
 
 ## Contact
