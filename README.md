@@ -24,10 +24,9 @@ Some of my client project
 ## My Product Clip
 - [BØRAIR Living Interior](https://www.youtube.com/shorts/3jJD2_6NWhI) | Cinematic luxury interior landing page experience.
 - [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Modern business landing page for a tech-focused company.
-- [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS + Website
-- [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | E-commerce + Website
-- [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
-
+- [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS-powered website experience with elegant visual presentation.
+- [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | Mini e-commerce platform with admin dashboard and payment system.
+  
 ## My Web/App Demo:
 - [BSynth](https://www.youtube.com/shorts/-lLU62ek258) | Showcase of my cinematic and interactive portfolio website experience.
 - [BØRAIR Living Interior](https://borair-interior.bossbsynth.com/) | Cinematic luxury interior showcase experience with modern interactive visual storytelling.
