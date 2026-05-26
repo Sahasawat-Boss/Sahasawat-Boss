@@ -22,8 +22,8 @@ Some of my client project
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## My Product Clip
-- [BØRAIR Living Interior](https://www.youtube.com/shorts/3jJD2_6NWhI) | Landing Page for Interior Site Demo
-- [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Landing Page for Business
+- [BØRAIR Living Interior](https://www.youtube.com/shorts/3jJD2_6NWhI) | Cinematic luxury interior landing page experience.
+- [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Modern business landing page for a tech-focused company.
 - [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS + Website
 - [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | E-commerce + Website
 - [BSlip-Checker](https://youtube.com/shorts/ylGrFObM-uw)
