@@ -2,9 +2,13 @@
 
 Passionate about web development and business analysis, I transform business ideas into modern, user-friendly digital products.
 
-## Website
+## BSynth Vision
+- [BSynth Vision](https://www.youtube.com/shorts/3jJD2_6NWhI)
+<img width="1206" height="1692" alt="vision-image - Copy" src="https://github.com/user-attachments/assets/5f577d4c-dac1-48e8-a35e-3886ee0d50ec" />
+
+## bossbsynth.com
 - [https://www.bossbsynth.com](https://bossbsynth.com)
-- [BSynth Video](https://www.youtube.com/shorts/-lLU62ek258)
+- [BSynth Website Demo Video](https://www.youtube.com/shorts/-lLU62ek258)
 <img width="1492" height="989" alt="bsynth-home-og" src="https://github.com/user-attachments/assets/61889b96-3d7d-45a1-9939-d3e059fa958a" />
 
 ## Game
