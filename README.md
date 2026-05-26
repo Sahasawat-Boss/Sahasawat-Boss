@@ -4,6 +4,7 @@ Passionate about web development and business analysis, I transform business ide
 
 ## BSynth Vision
 - [BSynth Vision](https://www.youtube.com/shorts/3jJD2_6NWhI)
+<img width="1494" height="973" alt="Screenshot 2026-05-12 110801" src="https://github.com/user-attachments/assets/f6ff5c0a-7941-4b53-9994-6307ae7be8d6" />
 
 ## bossbsynth.com
 - [https://www.bossbsynth.com](https://bossbsynth.com)
@@ -45,31 +46,6 @@ Some of my client project
 ## Contact
 - Phone: 086-868-4466
 - Gmail: sahasawat.rk@gmail.com
-<img width="96" height="96" alt="BSynthLogo" src="https://github.com/user-attachments/assets/03834511-3550-406a-a8ec-cb0694d86399" />
-
-## 🛠️ Technologies & Tools
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-SEO and Google Tools
-
-
-
-<img width="1494" height="973" alt="Screenshot 2026-05-12 110801" src="https://github.com/user-attachments/assets/f6ff5c0a-7941-4b53-9994-6307ae7be8d6" />
 
 <img width="1243" height="982" alt="Screenshot 2026-05-12 112029" src="https://github.com/user-attachments/assets/b511d24c-5fcb-4562-b6a6-88d2829adddc" />
 
