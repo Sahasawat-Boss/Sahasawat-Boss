@@ -4,7 +4,6 @@ Passionate about web development and business analysis, I transform business ide
 
 ## BSynth Vision
 - [BSynth Vision](https://www.youtube.com/shorts/3jJD2_6NWhI)
-<img width="1206" height="1692" alt="vision-image - Copy" src="https://github.com/user-attachments/assets/5f577d4c-dac1-48e8-a35e-3886ee0d50ec" />
 
 ## bossbsynth.com
 - [https://www.bossbsynth.com](https://bossbsynth.com)
@@ -23,6 +22,7 @@ Some of my client project
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## My Product Clip
+- [BØRAIR Living Interior](https://www.youtube.com/shorts/3jJD2_6NWhI) | Landing Page for Interior Site Demo
 - [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Landing Page for Business
 - [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS + Website
 - [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | E-commerce + Website
@@ -30,12 +30,12 @@ Some of my client project
 
 ## My Web/App Demo:
 - [BSynth](https://www.youtube.com/shorts/-lLU62ek258) | Showcase of my cinematic and interactive portfolio website experience.
-- [ØRAIR Living Interior](https://borair-interior.bossbsynth.com/) | Cinematic luxury interior showcase experience with modern interactive visual storytelling.
+- [BØRAIR Living Interior](https://borair-interior.bossbsynth.com/) | Cinematic luxury interior showcase experience with modern interactive visual storytelling.
 - [BSynth CMS Demo](https://demo-web-cms.bossbsynth.com/) | Modern web CMS/admin dashboard showcase with clean UI and content management workflow.
 - [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
 - (Old)  [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
 - (Old) [SoulScroll](https://soulscroll-bossbsynth.netlify.app/) | Fantasy-inspired interactive experience
-- 
+  
 ## Browser Extension (Chrome & Microsoft Edge)
 - [Quick Note](https://chromewebstore.google.com/detail/hnbelenilkmibaacgoihcjmpfdgkdfed?utm_source=item-share-cb)
 
