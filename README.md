@@ -4,7 +4,6 @@ Passionate about web development and business analysis, I transform business ide
 
 ## BSynth Vision
 - [BSynth Vision](https://www.youtube.com/shorts/3jJD2_6NWhI)
-<img width="1494" height="973" alt="Screenshot 2026-05-12 110801" src="https://github.com/user-attachments/assets/f6ff5c0a-7941-4b53-9994-6307ae7be8d6" />
 
 ## bossbsynth.com
 - [https://www.bossbsynth.com](https://bossbsynth.com)
