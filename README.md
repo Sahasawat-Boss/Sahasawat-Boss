@@ -30,6 +30,7 @@ Some of my client project
 ## My Web/App Demo:
 - [BSynth](https://www.youtube.com/shorts/-lLU62ek258) | Showcase of my cinematic and interactive portfolio website experience.
 - [BØRAIR Living Interior](https://borair-interior.bossbsynth.com/) | Cinematic luxury interior showcase experience with modern interactive visual storytelling.
+- [SWS Logistics](https://sws-logistics-demo.bossbsynth.com/th) | Modern logistics and supply chain website with multilingual support.
 - [BSynth CMS Demo](https://demo-web-cms.bossbsynth.com/) | Modern web CMS/admin dashboard showcase with clean UI and content management workflow.
 - [CORE_TECHWARE](https://coretechware.bossbsynth.com/) | Modern mini e-commerce system with admin panel and payment.
 - (Old)  [DailyDrip](https://daily-drip-coffee-cafe.bossbsynth.com/) | A modern, responsive coffee shop website built
