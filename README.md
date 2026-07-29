@@ -11,6 +11,7 @@ Passionate about web development and business analysis, I transform business ide
 <img width="1492" height="989" alt="bsynth-home-og" src="https://github.com/user-attachments/assets/61889b96-3d7d-45a1-9939-d3e059fa958a" />
 
 ## Game
+- [BLACKOUT - Survival Horror](https://blackout-game.bossbsynth.com/)
 - [Aegis Protocol](https://game02.aegis.bossbsynth.com/)
 - [Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
 
