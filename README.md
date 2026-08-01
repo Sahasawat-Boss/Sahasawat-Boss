@@ -8,7 +8,7 @@ Passionate about web development and business analysis, I transform business ide
 ## bossbsynth.com
 - [https://www.bossbsynth.com](https://bossbsynth.com)
 - [BSynth Website Demo Video](https://www.youtube.com/shorts/-lLU62ek258)
-<img width="1492" height="989" alt="bsynth-home-og" src="https://github.com/user-attachments/assets/61889b96-3d7d-45a1-9939-d3e059fa958a" />
+<img width="1904" height="952" alt="image" src="https://github.com/user-attachments/assets/24567b68-7798-4d1b-9549-94f9296f1726" />
 
 ## Game
 - [BLACKOUT - Survival Horror](https://blackout-game.bossbsynth.com/)
@@ -22,6 +22,7 @@ Some of my client project
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## My Product Clip
+- [旬肴和屋 美味 — Bimi Izakaya ](https://www.youtube.com/shorts/6ZKnLLvk15k) | Japanese izakaya website inspired by seasonal dining and traditional
 - [BØRAIR Living Interior](https://www.youtube.com/shorts/3jJD2_6NWhI) | Cinematic luxury interior landing page experience.
 - [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Modern business landing page for a tech-focused company.
 - [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS-powered website experience with elegant visual presentation.
@@ -29,6 +30,7 @@ Some of my client project
   
 ## My Web/App Demo:
 - [BSynth](https://www.youtube.com/shorts/-lLU62ek258) | Showcase of my cinematic and interactive portfolio website experience.
+- [旬肴和屋 美味 — Bimi Izakaya](https://japan-restaurant-design-01.bossbsynth.com/) | Japanese izakaya website inspired by seasonal dining and traditional
 - [BØRAIR Living Interior](https://borair-interior.bossbsynth.com/) | Cinematic luxury interior showcase experience with modern interactive visual storytelling.
 - [SWS Logistics](https://sws-logistics-demo.bossbsynth.com/th) | Modern logistics and supply chain website with multilingual support.
 - [BSynth CMS Demo](https://demo-web-cms.bossbsynth.com/) | Modern web CMS/admin dashboard showcase with clean UI and content management workflow.
