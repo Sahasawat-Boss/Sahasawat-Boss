@@ -10,16 +10,16 @@ Passionate about web development and business analysis, I transform business ide
 - [BSynth Website Demo Video](https://www.youtube.com/shorts/-lLU62ek258)
 <img width="1904" height="952" alt="image" src="https://github.com/user-attachments/assets/24567b68-7798-4d1b-9549-94f9296f1726" />
 
-## Game
-- [BLACKOUT - Survival Horror](https://blackout-game.bossbsynth.com/)
-- [Aegis Protocol](https://game02.aegis.bossbsynth.com/)
-- [Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
-
 ## Client Projects
 Some of my client project
 - [Introvertech](https://www.introvertech.com/)
 - [Quantum Med](https://www.quantum-med.net/)
 - [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
+
+## Game
+- [BLACKOUT - Survival Horror](https://blackout-game.bossbsynth.com/)
+- [Aegis Protocol](https://game02.aegis.bossbsynth.com/)
+- [Warrior’s Odyssey](https://game01.warriors.bossbsynth.com/)
 
 ## My Product Clip
 - [旬肴和屋 美味 — Bimi Izakaya ](https://www.youtube.com/shorts/6ZKnLLvk15k) | Japanese izakaya website inspired by seasonal dining and traditional
