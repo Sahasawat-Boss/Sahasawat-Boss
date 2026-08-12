@@ -23,7 +23,7 @@ Some of my client project
 
 ## My Product Clip
 - [旬肴和屋 美味 — Bimi Izakaya ](https://www.youtube.com/shorts/6ZKnLLvk15k) | Japanese izakaya website inspired by seasonal dining and traditional
-- [BØRAIR Living Interior](https://www.youtube.com/shorts/3jJD2_6NWhI) | Cinematic luxury interior landing page experience.
+- [BØRAIR Living Interior](https://www.youtube.com/shorts/d78MmNsJ4yM) | Cinematic luxury interior landing page experience.
 - [Introvertech](https://www.youtube.com/shorts/SxCYuw4h4wk) | Modern business landing page for a tech-focused company.
 - [LUMIÈRE](https://www.youtube.com/shorts/VisX-SepWnQ)  | CMS-powered website experience with elegant visual presentation.
 - [CORE_TECHWARE](https://www.youtube.com/shorts/cMSdswYeFTY) | Mini e-commerce platform with admin dashboard and payment system.
