@@ -2,9 +2,6 @@
 
 Passionate about web development and business analysis, I transform business ideas into modern, user-friendly digital products.
 
-## BSynth Vision
-- [BSynth Vision](https://www.youtube.com/shorts/3jJD2_6NWhI)
-
 ## bossbsynth.com
 - [https://www.bossbsynth.com](https://bossbsynth.com)
 - [BSynth Website Demo Video](https://www.youtube.com/shorts/-lLU62ek258)
