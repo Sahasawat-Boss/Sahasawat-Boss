@@ -12,7 +12,6 @@ Some of my client project
 - [Introvertech](https://www.introvertech.com/)
 - [TP Wellness Clinic](https://tpwellnessclinic.com/)
 - [Quantum Med](https://www.quantum-med.net/)
-- [Welladee Wellness Clinic](https://www.welladeeclinic.com/)
 
 ## Game
 - [BLACKOUT - Survival Horror](https://blackout-game.bossbsynth.com/)
