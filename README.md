@@ -9,6 +9,7 @@ Passionate about web development and business analysis, I transform business ide
 
 ## Client Projects
 Some of my client project
+- [g56allinbar](https://www.g56allinbar.com/)
 - [Introvertech](https://www.introvertech.com/)
 - [TP Wellness Clinic](https://tpwellnessclinic.com/)
 - [Quantum Med](https://www.quantum-med.net/)
